@@ -1,0 +1,2 @@
+LOGGING ://
+private static final Logger logger = LogManager.getLogger(Log4j2DemoApplication.class);
