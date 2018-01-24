@@ -1,4 +1,4 @@
-package com.nightplex.apibuddy;
+package com.nightplex.apibuddy.container;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
