@@ -6,7 +6,8 @@ import org.springframework.context.annotation.PropertySource;
 import org.springframework.context.support.PropertySourcesPlaceholderConfigurer;
 
 /**
- * Created by steven.tihomirov on 24.1.2018
+ * Created by NightPlex on 3/28/2018
+ * Github: https://github.com/NightPlex
  */
 
 @Configuration
